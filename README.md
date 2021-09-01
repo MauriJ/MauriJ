@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on metals and alloys texture and residual stresses characterization.
 - 💬 Ask me about texture, residual stress, diffraction analysis, TEM and SEM.
 - 📫 How to reach me: maurijmoran@gmail.com
+- :open_book: Feel free to read my CV! 
 
 <!--
 **MauriJ/MauriJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
