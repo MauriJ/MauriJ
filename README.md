@@ -1,9 +1,9 @@
 ### Hi there! Welcome to my GitHub 👋
 
 - 🔭 I’m currently working on dislocation density calculations from neutron diffraction and EXAFS data analysis of borate glasses. 
-- 🌱 I’m currently learning scripting in Python and MATLAB.
+- 🌱 I’m also learning data science.
 - 👯 I’m looking to collaborate on crystallographic texture and residual stress measurements and data analysis.
-- 💬 Ask me about texture, residual stress, diffraction analysis, TEM and SEM.
+- 💬 Ask me about texture, residual stress, diffraction analysis, TEM and Data Science!
 - 📫 How to reach me: maurijmoran@gmail.com
 - :open_book: Feel free to read my CV! 
 
