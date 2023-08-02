@@ -15,7 +15,7 @@
 - :man_scientist: I also work in materials science, studying metals and alloys.
 - 💬: Ask me about python, data analysis and machine learning!
 - :alembic:: You can also ask me about chemistry, physics and materials science!
-- 📫 How to reach me: maurijmoran@gmail.com
+- 📫 How to reach me: maurijmoran@gmail.com.
 - :open_book: Feel free to read my CV! 
 
 <!--
